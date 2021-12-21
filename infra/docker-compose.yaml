@@ -51,5 +51,5 @@ services:
 
 volumes:
 
-  static_value:
-  media_value:
+  static_value: {}
+  media_value: {}
